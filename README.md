@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science and Analytics**
 
-- 👨‍💻 All of my projects are available at [https://jagadekmeesala.github.io/Jagadek_Meesala/](https://jagadekmeesala.github.io/Jagadek_Meesala/)
+- 👨‍💻 All of my projects are available at my *portfolio* [https://jagadekmeesala.github.io/Jagadek_Meesala/](https://jagadekmeesala.github.io/Jagadek_Meesala/)
 
 - 📝 I regularly write articles on [linkedin.com/in/JagadekMeesala](linkedin.com/in/JagadekMeesala)
 
