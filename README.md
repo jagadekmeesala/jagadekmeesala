@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagadekmeesala" alt="jagadekmeesala" /></a> </p>
 
-- 🔭 I’m currently working on [Intelli Farm tech](https://github.com/jagadekmeesala/IntelliFarmTech)
+- 🔭 I’m currently working on [Intelli Farm tech](https://github.com/jagadekmeesala/IntelliFarmTech) 
 
 - 🌱 I’m currently learning **Data Science and Analytics**
 
