@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Machine Learning, AI and Data Science**
 
-- 📫 How to reach me **jagadekmeesla006@gmail.com**
+- 📫 Reach out to me **jagadekmeesla006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
