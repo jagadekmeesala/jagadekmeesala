@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jagadek VVSD Meesala</h1>
+<h1 align="center">Hi 👋, I'm Jagadek VVSD Meesala</h1> 
 <h3 align="center">Fresher | Under graduate in Computer Science - AI & Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadekmeesala&label=Profile%20views&color=0e75b6&style=flat" alt="jagadekmeesala" /> </p>
