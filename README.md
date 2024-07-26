@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at my *portfolio* [https://jagadekmeesala.github.io/Jagadek_Meesala/](https://jagadekmeesala.github.io/Jagadek_Meesala/)
 
-- 📝 I regularly write articles on [linkedin.com/in/JagadekMeesala](linkedin.com/in/JagadekMeesala)
+- 📝 I regularly write blogs & articles on [linkedin.com/in/JagadekMeesala](linkedin.com/in/JagadekMeesala)
 
 - 💬 Ask me about **Machine Learning, AI and Data Science**
 
