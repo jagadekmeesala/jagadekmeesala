@@ -13,7 +13,7 @@
 
 - 📝 I regularly write blogs & articles on [linkedin.com/in/JagadekMeesala](linkedin.com/in/JagadekMeesala)
 
-- 💬 Ask me about **Machine Learning, AI and Data Science**
+- 💬 Ask me about **Machine Learning, AI, Data Science, Node.js and Java**
 
 - 📫 Reach out to me **jagadekmeesla006@gmail.com**
 
