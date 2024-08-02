@@ -2,7 +2,7 @@
 <h3 align="center">Fresher | Under graduate in Computer Science - AI & Data Science</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadekmeesala&label=Profile%20views&color=0e75b6&style=flat" alt="jagadekmeesala" /> </p>
-
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagadekmeesala" alt="jagadekmeesala" /></a> </p>
 
 - 🔭 I have recently worked on [Intelli Farm tech](https://github.com/jagadekmeesala/IntelliFarmTech) 
